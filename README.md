@@ -18,6 +18,7 @@
 - [ENG] [How to Code Like a Pro](https://medium.com/better-programming/self-taught-developer-how-to-code-like-a-pro-5-5-20-must-have-cheatsheet-tools-for-every-e250d4c64978)
 - [ENG] [Clear Your Terminal in Style](https://adammusciano.com/2020/03/04/2020-03-04-clear-your-terminal-in-style/)
 - [ENG] [Get Better at Writing Comments](https://medium.com/swlh/get-better-at-writing-comments-4ccb21cb6dc2)
+- [ENG] [Tech against Coronavirus](https://techagainstcoronavirus.com/)
 
 
 ### Front-end
@@ -27,10 +28,15 @@
 - [ENG] [RitikPatni/Front-End-Web-Development-Resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
 - [ENG] [Guide for the daily JavaScripter](https://dev.to/damxipo/guide-for-the-daily-javascripter-87o)
 - [ENG] [Avoid use IF on our JS scripts](https://dev.to/damxipo/avoid-use-if-on-our-js-scripts-1b95)
+- [ENG] [How to handle HTTP calls in a large scale Vue.js Application](https://medium.com/js-dojo/how-to-handle-http-calls-in-a-large-scale-vue-js-application-26629158f60e)
+- [ENG] [A Simple, Functional Module Pattern for TypeScript](https://spin.atomicobject.com/2017/10/26/typescript-functional-module-pattern/)
+- [ENG] [Understanding Vue's Deep CSS Selector](https://www.telerik.com/blogs/understanding-vue-deep-css-selector)
+- [ENG] [Comma Operator in JavaScript](https://medium.com/javascript-in-plain-english/comma-operator-in-javascript-cfe170f5b4d3)
 
 ### Testing
 - [ENG] [What Not to Do When Writing E2E Tests](https://medium.com/better-programming/what-not-to-do-when-writing-e2e-tests-ef7b9d09cc81)
 - [ENG] [Why this guide can take your testing skills to the next level](https://github.com/goldbergyoni/javascript-testing-best-practices)
+- [ENG] [Do you want Automation? Pay me more](https://medium.com/@danielsolano_/automation-pay-me-more-6bc612ed3993)
 
 ### Architecture
 - [ENG] [JWT is Awesome: Here's Why](https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/)
