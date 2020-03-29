@@ -11,6 +11,7 @@
 
 ### Leadership
 - [PL] [6 ksiązek lidera, które powinieneś przeczytać](https://kuznialeaderow.pl/6-ksiazek-lidera/)
+- [ENG] [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 
 ### Development
 - [ENG] [Rico's cheatsheets](https://devhints.io/)
@@ -19,6 +20,8 @@
 - [ENG] [Clear Your Terminal in Style](https://adammusciano.com/2020/03/04/2020-03-04-clear-your-terminal-in-style/)
 - [ENG] [Get Better at Writing Comments](https://medium.com/swlh/get-better-at-writing-comments-4ccb21cb6dc2)
 - [ENG] [Tech against Coronavirus](https://techagainstcoronavirus.com/)
+- [ENG] [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [ENG] [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 
 
 ### Front-end
@@ -32,15 +35,26 @@
 - [ENG] [A Simple, Functional Module Pattern for TypeScript](https://spin.atomicobject.com/2017/10/26/typescript-functional-module-pattern/)
 - [ENG] [Understanding Vue's Deep CSS Selector](https://www.telerik.com/blogs/understanding-vue-deep-css-selector)
 - [ENG] [Comma Operator in JavaScript](https://medium.com/javascript-in-plain-english/comma-operator-in-javascript-cfe170f5b4d3)
+- [ENG] [Finding the perfect component file structure for our VueJS App.](https://medium.com/@vuefront/finding-the-perfect-component-file-structure-for-out-vuejs-app-b808a69dacac)
+- [ENG] [Securing Authentication in a SPA Using JWT Token](https://medium.com/@ideneal/securing-authentication-in-a-spa-using-jwt-token-the-coolest-way-ab883bc372b6)
+- [ENG] [Explore a more complete front-end testing strategy](https://medium.com/@unadlib/explore-a-more-complete-front-end-testing-strategy-e60b07cee621)
+- [ENG] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 ### Testing
 - [ENG] [What Not to Do When Writing E2E Tests](https://medium.com/better-programming/what-not-to-do-when-writing-e2e-tests-ef7b9d09cc81)
 - [ENG] [Why this guide can take your testing skills to the next level](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [ENG] [Do you want Automation? Pay me more](https://medium.com/@danielsolano_/automation-pay-me-more-6bc612ed3993)
+- [ENG] [How to create an effective test automation strategy](https://medium.com/@abstarreveld/considerations-for-an-effective-test-automation-strategy-a5bd027b3fa3)
+
 
 ### Architecture
 - [ENG] [JWT is Awesome: Here's Why](https://thehftguy.com/2020/02/18/jwt-is-awesome-heres-why/)
 - [ENG] [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
+
+### Design
+- [ENG] [Free illustrations resources for the web - Make your next project cooler!?](https://dev.to/kedark/free-illustrations-resources-for-the-web-make-your-next-project-cooler-525c)
+- [ENG] [All in One Bookmark Links for Designer](https://www.evernote.design/)
+- [ENG] [2020🔥 New and Hand-Picked Free Web Resources, Every developer should bookmark it!](https://dev.to/gadhiyaravi/2020-new-and-hand-picked-free-web-resources-every-developer-should-bookmark-it-mn7)
 
 ### Other
 - [PL] [Jak nie robić prezentacji, które mogłyby być mailem? | TEDxKatowice](http://www.youtube.com/watch?v=DFye1_R5InM)
